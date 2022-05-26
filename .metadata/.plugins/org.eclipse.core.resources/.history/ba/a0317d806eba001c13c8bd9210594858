@@ -1,0 +1,5 @@
+
+public class testaPontoFlutuante {
+	double salario = 1250.7;
+	System.out.println("O salário do Pedro é " + salario);
+}

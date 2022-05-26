@@ -1,0 +1,10 @@
+
+public class testeConversao {
+	
+	public static void main(String[] args) {
+		double salario = 2510.76;
+		int valor = (int) salario;
+		
+	System.out.println("O salário do Pedro é " + valor + "!");
+	}
+}

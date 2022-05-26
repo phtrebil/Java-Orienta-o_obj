@@ -1,0 +1,10 @@
+
+public class testaVariaveis {
+	public static void main(String[] args) {
+		
+		System.out.println("Pedro tem ");
+		int idade;
+		idade = 34;
+		System.out.println(idade + "anos de idade");
+	}
+}

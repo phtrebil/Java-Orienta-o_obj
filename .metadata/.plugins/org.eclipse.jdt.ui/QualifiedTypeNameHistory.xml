@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="bytebankherdado.SistemaInterno"/>
+    <fullyQualifiedTypeName name="bytebankherdado.funcionario"/>
+    <fullyQualifiedTypeName name="bytebankherdado.Autenticavel"/>
+    <fullyQualifiedTypeName name="bytebankherdado.AutenticaUtil"/>
+    <fullyQualifiedTypeName name="Tributavel"/>
+    <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="SeguraDeVida"/>
+    <fullyQualifiedTypeName name="CalculaImposto"/>
+    <fullyQualifiedTypeName name="SaldoInsuficienteException"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="Modelo.Conexao"/>
+    <fullyQualifiedTypeName name="Modelo.Conta"/>
+    <fullyQualifiedTypeName name="Modelo.SaldoInsuficienteException"/>
+    <fullyQualifiedTypeName name="Modelo.ContaPoupança"/>
+    <fullyQualifiedTypeName name="Modelo.ContaCorrente"/>
+    <fullyQualifiedTypeName name="Modelo.SeguraDeVida"/>
+    <fullyQualifiedTypeName name="Modelo.CalculaImposto"/>
+    <fullyQualifiedTypeName name="Modelo.Tributavel"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.Modelo.Tributavel"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.Modelo.Conexao"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.Modelo.Conta"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.Modelo.SaldoInsuficienteException"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.Modelo.SeguraDeVida"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.Modelo.CalculaImposto"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.Modelo.ContaCorrente"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.Modelo.ContaPoupança"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.Modelo.GuardadorDeReferencias"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>
